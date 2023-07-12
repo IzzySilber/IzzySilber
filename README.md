@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi!
+
+
+My name is Izzy, I'm a data analyst at Boston University School of Public Health within the Department of Global Health. 
+
+At BUSPH, my current project is identifying a signature of biomarkers to classify viral, malarial, and bacterial diseases. In this project, I've used and evaluated three main machine learning/statistical methods.    
+
+
+
 
 <!--
 **IzzySilber/IzzySilber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
